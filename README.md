@@ -15,3 +15,5 @@
 - pip install pandas scikit-learn dvc
 - pip freeze > requirements.txt OR pip install -r requirements.txt
 - dvc init
+- create dummy data
+- dvc add data/raw/iris.csv
