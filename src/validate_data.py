@@ -2,7 +2,7 @@ import sys
 from pathlib import Path
 import pandas as pd
 
-TRAIN_PATH=Path("/workspaces/ML/data/processed/train.csv")
+TRAIN_PATH=Path("/workspaces/ML_DVC_DEMO/data/processed/train.csv")
 
 EXPECTED_COLUMNS=["sepal length (cm)","sepal width (cm)","petal length (cm)","petal width (cm)","target"]
 
